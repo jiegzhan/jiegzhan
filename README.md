@@ -6,10 +6,10 @@
 
 ### Real Time Streaming Processing :white_check_mark:
 
-Architected and led a Flink \& Kubenetes powered real time streaming platform which provides capabilities to build Flink streaming applications and run them on Kubernetes clusters seamlessly. Onboarded other engineering teams and promoted best streaming practices.
+Lead a Flink \& Kubenetes powered real time streaming platform which provides capabilities to build Flink streaming applications and run them on Kubernetes clusters seamlessly. Onboarded other engineering teams and promoted best streaming practices.
 
 ### Data Lake Batch Processing :white_check_mark:
-Built and maintained a Spark \& Iceberg \& Hive \& S3 \& Airflow based data lake, architected and implemented distributed data ingestion, storage, and processing pipelines.
+Built and maintained a Spark \& Hive \& S3 \& Airflow based data lake, architected and implemented distributed data ingestion and processing pipelines.
 
 <!--
 **jiegzhan/jiegzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
