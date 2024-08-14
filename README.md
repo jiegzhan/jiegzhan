@@ -6,7 +6,7 @@
 
 - I was a Senior Software Engineer at Roku Big Data Platform team for 4.5 years, where I provided data infrastructure and data solutions both in large scale real time streaming processing and data lake batch processing.
 
-- 🌱Tech Stack: Flink, Spark, Kafka, Presto, Iceberg, Hive, Hadoop, Airflow, Kubernetes, Docker, AWS Stack, DataDog, Jupyter Notebook, Superset, Looker.
+- Tech Stack: Flink, Spark, Kafka, Presto, Iceberg, Hive, Hadoop, Airflow, Kubernetes, Docker, AWS Stack, DataDog, Jupyter Notebook, Superset, Looker.
 
 ### Real Time Streaming Processing :white_check_mark:
 
