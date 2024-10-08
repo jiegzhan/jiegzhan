@@ -2,9 +2,9 @@
 
 - 🔭 I am Zhang Jie (张 杰).
 
-- In 05/2024, I joined Disney Streaming as a Staff Software Engineer, where I mainly focus on data ingestion, data discovery, and data governance. 
+- In 05/2024, I joined Disney Streaming as a Staff Software Engineer, where I mainly focus on data ingestion and data governance. 
 
-- I was a Senior Software Engineer at Roku Big Data Platform team for 4.5 years, where I provided data infrastructure and data solutions both in large scale real time streaming processing and data lake batch processing.
+- I was a Senior Software Engineer at Roku Big Data Platform team for 4.5 years, where I provided data infrastructure solutions both in large scale real time streaming processing and data lake batch processing.
 
 - Tech Stack: Flink, Spark, Kafka, Presto, Iceberg, Hive, Hadoop, Airflow, Kubernetes, Docker, AWS Stack, DataDog, Jupyter Notebook, Superset, Looker.
 
