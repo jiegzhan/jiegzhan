@@ -6,14 +6,14 @@
 
 - I was a Senior Software Engineer at Roku Big Data Platform team for 4.5 years, where I provided data infrastructure solutions both in large scale real time streaming processing and data lake batch processing.
 
-- Tech Stack: Flink, Spark, Kafka, OpenSearch, Neptune, Presto, Hive, Hadoop, Airflow, Kubernetes, Docker, AWS Stack, Databricks, Superset, Looker.
+- Tech Stack: Flink, Spark, Kafka, Presto, Hive, Iceberg, Airflow, Kubernetes, Docker, AWS Stack, Databricks, Superset, Looker.
 
 ### Real Time Streaming Processing :white_check_mark:
 
-Built a Flink \& Kubenetes powered real time streaming platform which provides capabilities to build Flink streaming applications and run them on Kubernetes clusters seamlessly. Onboarded other engineering teams and promoted best streaming practices.
+Designed a Flink \& Kubernetes powered real time streaming platform for Roku where users can build Flink applications and run them on Kubernetes clusters seamlessly. Built the biggest Flink app within Roku to ingest device events (25B - 40B hourly) and publish them to Kafka and S3 for streaming and batch use cases respectively. Onboarded external teams and guided them through e-2-e development \& testing \& tuning \& deployment process.
 
 ### Data Lake Batch Processing :white_check_mark:
-Built and maintained a Spark \& Hive \& S3 \& Airflow based data lake, architected and implemented distributed data ingestion and processing pipelines.
+Built and maintained Roku's Hive \& Iceberg \& Spark \& S3 \& Airflow based data warehouse. Implemented distributed data processing pipelines to power our petabyte scale data warehouse. Optimized the data warehouse in various aspects such as Presto compatible, partitioning, clustering, columnar formats, schema evolution.
 
 <!--
 **jiegzhan/jiegzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
